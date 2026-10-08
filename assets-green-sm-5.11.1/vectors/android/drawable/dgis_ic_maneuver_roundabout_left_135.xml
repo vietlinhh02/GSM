@@ -1,0 +1,7 @@
+<?xml version="1.0" encoding="utf-8"?>
+<vector android:height="36.0dp" android:width="36.0dp" android:viewportWidth="36.0" android:viewportHeight="36.0"
+  xmlns:android="http://schemas.android.com/apk/res/android">
+    <path android:fillColor="#00000000" android:pathData="M25.5,13.5m7,0a7,7 0,1 0,-14 0a7,7 0,1 0,14 0" android:strokeColor="?dgis_dimmedManeuverColor" android:strokeWidth="5.0" />
+    <path android:fillColor="?dgis_maneuverColor" android:pathData="M25.5,33C26.8807,33 28,31.8807 28,30.5L28,23V20.5C28,19.1193 26.8807,18 25.5,18C23.5435,18 21.9254,16.8085 21.2903,15.1199C21.0273,14.4207 20.4654,13.8757 19.7584,13.6342C19.0515,13.3927 18.2736,13.4801 17.6378,13.8723L7.9112,19.8723L10.5363,24.1277L18.0876,19.4696C19.3248,21.0087 21.0338,22.1455 23,22.6729V23V30.5C23,31.8807 24.1193,33 25.5,33V33Z" android:fillType="evenOdd" />
+    <path android:fillColor="?dgis_maneuverColor" android:pathData="M2.3004,26.6748C1.7664,26.6403 1.4392,26.0737 1.6764,25.5939L6.8191,15.1928C7.1076,14.6093 7.9515,14.6451 8.1895,15.2509L10.5281,21.2038L14.5141,26.2056C14.9198,26.7146 14.5289,27.4633 13.8793,27.4214L2.3004,26.6748Z" />
+</vector>

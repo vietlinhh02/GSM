@@ -1,0 +1,8 @@
+<?xml version="1.0" encoding="utf-8"?>
+<vector android:height="36.0dp" android:width="36.0dp" android:viewportWidth="36.0" android:viewportHeight="36.0"
+  xmlns:android="http://schemas.android.com/apk/res/android">
+    <path android:fillColor="#00000000" android:pathData="M18,29.5C18,26.5 18,23 21.5,20C25,17 25,15.861 25,12.595" android:strokeColor="?dgis_betterRoutePromptIconColor" android:strokeWidth="3.0" android:strokeLineCap="square" />
+    <path android:fillColor="?dgis_betterRoutePromptIconColor" android:pathData="M25.61,7.854C25.311,7.436 24.689,7.436 24.39,7.854L21.015,12.578C20.632,13.115 21.077,13.849 21.73,13.757L25,13.298L28.27,13.757C28.923,13.849 29.368,13.115 28.985,12.578L25.61,7.854Z" />
+    <path android:fillColor="?dgis_betterRoutePromptIconColor" android:pathData="M11.61,7.854C11.311,7.436 10.689,7.436 10.39,7.854L7.015,12.578C6.632,13.115 7.077,13.849 7.73,13.757L11,13.298L14.27,13.757C14.923,13.849 15.368,13.115 14.985,12.578L11.61,7.854Z" />
+    <path android:fillColor="?dgis_betterRoutePromptIconColor" android:pathData="M11.075,18.691C11.657,19.435 12.421,20.185 13.392,21.025L15.759,19.109C15.667,19.026 15.573,18.944 15.476,18.861C14.586,18.098 13.985,17.504 13.571,17.008L11.075,18.691ZM12.705,15.481C12.515,14.825 12.5,14.043 12.5,12.595V10.5H9.5V12.595L9.5,12.759C9.499,14.251 9.499,15.621 10.049,16.966C10.082,17.045 10.116,17.124 10.152,17.203L12.705,15.481ZM14.653,22.257L16.985,20.368C18.007,21.577 18.634,22.816 19.003,24.08C19.5,25.787 19.5,27.47 19.5,28.921L19.5,29H16.5C16.5,27.469 16.491,26.182 16.122,24.92C15.872,24.06 15.44,23.174 14.653,22.257Z" android:fillType="evenOdd" />
+</vector>

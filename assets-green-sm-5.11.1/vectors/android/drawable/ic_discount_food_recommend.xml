@@ -1,0 +1,5 @@
+<?xml version="1.0" encoding="utf-8"?>
+<vector android:height="21.0dp" android:width="40.0dp" android:viewportWidth="40.0" android:viewportHeight="21.0"
+  xmlns:android="http://schemas.android.com/apk/res/android" xmlns:aapt="http://schemas.android.com/aapt">
+    <path android:fillColor="@drawable/$ic_discount_food_recommend__0" android:pathData="M38,0C39.105,0 40,0.895 40,2V8.5C38.895,8.5 38,9.395 38,10.5C38,11.605 38.895,12.5 40,12.5V19C40,20.105 39.105,21 38,21H2C0.895,21 0,20.105 0,19V12.5C1.105,12.5 2,11.605 2,10.5C2,9.395 1.105,8.5 0,8.5V2C0,0.895 0.895,0 2,0H38Z" />
+</vector>

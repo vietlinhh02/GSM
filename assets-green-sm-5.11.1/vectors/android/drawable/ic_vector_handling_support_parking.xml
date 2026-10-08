@@ -1,0 +1,6 @@
+<?xml version="1.0" encoding="utf-8"?>
+<vector android:height="40.0dp" android:width="40.0dp" android:viewportWidth="40.0" android:viewportHeight="40.0"
+  xmlns:android="http://schemas.android.com/apk/res/android" xmlns:aapt="http://schemas.android.com/aapt">
+    <path android:fillColor="@drawable/$ic_vector_handling_support_parking__0" android:pathData="M20,2C12.44,2 6.289,8.151 6.289,15.711C6.289,26.626 18.793,37.312 19.324,37.756C19.472,37.879 19.762,38 20,38C20.238,38 20.528,37.879 20.676,37.756C21.207,37.312 33.711,26.626 33.711,15.711C33.711,8.151 27.56,2 20,2Z" />
+    <path android:fillColor="@drawable/$ic_vector_handling_support_parking__1" android:pathData="M21.055,12.547H18.945V14.656H21.055C21.636,14.656 22.109,14.184 22.109,13.602C22.109,13.02 21.636,12.547 21.055,12.547ZM20,6.219C14.766,6.219 10.508,10.477 10.508,15.711C10.508,20.945 14.766,25.203 20,25.203C25.234,25.203 29.492,20.945 29.492,15.711C29.492,10.477 25.234,6.219 20,6.219ZM21.055,16.766H18.945V19.93C18.945,20.513 18.474,20.984 17.891,20.984C17.308,20.984 16.836,20.513 16.836,19.93V11.492C16.836,10.909 17.308,10.438 17.891,10.438H21.055C22.799,10.438 24.219,11.857 24.219,13.602C24.219,15.346 22.799,16.766 21.055,16.766Z" />
+</vector>

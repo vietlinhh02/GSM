@@ -1,0 +1,6 @@
+<?xml version="1.0" encoding="utf-8"?>
+<vector android:height="36.0dp" android:width="36.0dp" android:viewportWidth="36.0" android:viewportHeight="36.0"
+  xmlns:android="http://schemas.android.com/apk/res/android">
+    <path android:fillColor="?dgis_maneuverColor" android:pathData="M18,8C16.6193,8 15.5,9.1193 15.5,10.5V31.5034C15.5,32.8841 16.6193,34.0034 18,34.0034C19.3807,34.0034 20.5,32.8841 20.5,31.5034V10.5C20.5,9.1193 19.3807,8 18,8Z" android:fillType="evenOdd" />
+    <path android:fillColor="?dgis_maneuverColor" android:pathData="M17.3666,2.936C17.6634,2.4908 18.3178,2.4908 18.6146,2.936L25.0509,12.5903C25.412,13.1319 24.959,13.8448 24.3154,13.748L17.9907,12.7969L11.666,13.748C11.0224,13.8448 10.5694,13.132 10.9305,12.5904L17.3666,2.936Z" />
+</vector>

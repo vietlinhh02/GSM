@@ -1,0 +1,41 @@
+# Agent and local environment data
+.agent-runs/
+**/.env
+**/.env.*
+!**/.env.example
+**/*.local
+gsmvoiceebackend/data/
+
+# Flutter and Dart generated files
+**/.dart_tool/
+**/.flutter-plugins
+**/.flutter-plugins-dependencies
+**/.pub-cache/
+**/.pub/
+**/build/
+**/coverage/
+**/local.properties
+**/Generated.xcconfig
+**/Flutter/ephemeral/
+
+# Android and Gradle generated files
+**/.gradle/
+**/android/app/debug/
+**/android/app/profile/
+**/android/app/release/
+
+# IDE and operating system files
+.DS_Store
+*.class
+*.iml
+*.log
+*.pyc
+*.swp
+.idea/
+.vscode/
+
+# Apple platform generated files
+**/Pods/
+**/DerivedData/
+**/ios/Flutter/.last_build_id
+*.xcuserstate

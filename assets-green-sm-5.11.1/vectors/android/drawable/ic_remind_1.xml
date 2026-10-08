@@ -1,0 +1,6 @@
+<?xml version="1.0" encoding="utf-8"?>
+<vector android:height="32.0dp" android:width="32.0dp" android:viewportWidth="32.0" android:viewportHeight="32.0"
+  xmlns:android="http://schemas.android.com/apk/res/android" xmlns:aapt="http://schemas.android.com/aapt">
+    <path android:fillColor="@drawable/$ic_remind_1__0" android:pathData="M16.476,2.147C16.188,1.951 15.813,1.951 15.524,2.147C12.202,4.408 8.609,5.819 4.736,6.384C4.314,6.445 4,6.815 4,7.25V15.125C4,21.935 7.955,26.904 15.692,29.942C15.89,30.019 16.11,30.019 16.308,29.942C24.045,26.904 28,21.935 28,15.125V7.25C28,6.815 27.686,6.445 27.264,6.384C23.391,5.819 19.798,4.408 16.476,2.147Z" />
+    <path android:fillColor="@drawable/$ic_remind_1__1" android:pathData="M16,15.124C17.893,15.124 19.429,13.557 19.429,11.624C19.429,9.691 17.893,8.124 16,8.124C14.106,8.124 12.571,9.691 12.571,11.624C12.571,13.557 14.106,15.124 16,15.124ZM16,23.874C20.286,23.874 22,21.678 22,19.499C22,18.049 20.849,16.874 19.429,16.874H12.571C11.151,16.874 10,18.049 10,19.499C10,21.686 11.714,23.874 16,23.874Z" />
+</vector>

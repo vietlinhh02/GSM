@@ -1,0 +1,7 @@
+<?xml version="1.0" encoding="utf-8"?>
+<vector android:height="36.0dp" android:width="36.0dp" android:viewportWidth="36.0" android:viewportHeight="36.0"
+  xmlns:android="http://schemas.android.com/apk/res/android">
+    <path android:fillColor="?dgis_dimmedManeuverColor" android:pathData="M2,30.9932C2,32.3739 3.127,33.5143 4.4901,33.2942C11.8667,32.103 17.5,25.7059 17.5,17.9932C17.5,10.2804 11.8667,3.8834 4.4901,2.6921C3.127,2.472 2,3.6124 2,4.9932C2,6.3739 3.1354,7.4625 4.4774,7.7871C9.0808,8.9006 12.5,13.0476 12.5,17.9932C12.5,22.9388 9.0808,27.0857 4.4774,28.1992C3.1354,28.5238 2,29.6125 2,30.9932Z" android:fillAlpha="0.4" android:fillType="evenOdd" />
+    <path android:fillColor="?dgis_maneuverColor" android:pathData="M13.1973,15.2679C13.6686,14.7773 14.3196,14.5 15,14.5H17.5H28V19.5H17.5H17.4042C16.6261,26.3801 11.685,32.2107 4.4917,33.3128C3.1269,33.5219 2,32.3807 2,31C2,29.6193 3.135,28.5331 4.4801,28.2212C9.4444,27.0699 12.7177,22.4925 12.502,17.0999C12.4748,16.4201 12.7259,15.7585 13.1973,15.2679Z" android:fillType="evenOdd" />
+    <path android:fillColor="?dgis_maneuverColor" android:pathData="M35.0639,17.6334C35.5092,17.3366 35.5092,16.6822 35.0639,16.3854L25.4096,9.9491C24.8681,9.588 24.1552,10.041 24.252,10.6846L25.2031,17.0093L24.252,23.334C24.1552,23.9776 24.868,24.4306 25.4096,24.0695L35.0639,17.6334Z" />
+</vector>

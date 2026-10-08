@@ -1,0 +1,16 @@
+# Build artifacts
+bin/
+dist/
+*.exe
+*.dll
+*.so
+*.dylib
+
+# Local environment and secrets
+.env
+.env.*
+!.env.example
+*.local
+
+# Local persistence storage
+data/

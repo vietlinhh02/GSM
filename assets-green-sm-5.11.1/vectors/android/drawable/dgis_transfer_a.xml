@@ -1,0 +1,6 @@
+<?xml version="1.0" encoding="utf-8"?>
+<vector android:height="28.0dp" android:width="28.0dp" android:viewportWidth="24.0" android:viewportHeight="24.0"
+  xmlns:android="http://schemas.android.com/apk/res/android">
+    <path android:fillColor="@color/dgis_public_transport_waypoint_dimmed" android:pathData="M12,12m-12,0a12,12 0,1 1,24 0a12,12 0,1 1,-24 0" />
+    <path android:fillColor="@color/dgis_card_text" android:pathData="M14,13.9L10.4,13.9L9.7,16L7.5,16l3.7,-10h1.9l3.7,10h-2.2L14,13.9zM10.9,12.2h2.5l-1.3,-3.7L10.9,12.2z" />
+</vector>

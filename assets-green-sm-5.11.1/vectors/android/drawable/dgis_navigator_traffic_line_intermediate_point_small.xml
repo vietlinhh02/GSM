@@ -1,0 +1,5 @@
+<?xml version="1.0" encoding="utf-8"?>
+<vector android:height="14.0dp" android:width="12.0dp" android:viewportWidth="12.0" android:viewportHeight="14.0"
+  xmlns:android="http://schemas.android.com/apk/res/android">
+    <path android:fillColor="?dgis_intermediatePointBackgroundColor" android:pathData="M1.47,6.152C1.1776,6.3347 1,6.6552 1,7C1,7.3448 1.1776,7.6653 1.47,7.848L7.94,11.8917C9.2721,12.7243 11,11.7666 11,10.1958V3.8043C11,2.2334 9.2721,1.2757 7.94,2.1082L1.47,6.152Z" android:strokeColor="?dgis_pointObjectBorderColor" android:strokeWidth="2.0" android:strokeLineJoin="round" />
+</vector>
